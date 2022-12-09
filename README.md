@@ -49,7 +49,7 @@ During the course of completing this project, I was able to sharpen my Frontend 
 ## Author
 
 - Github - [Officialsammy](https://www.Officialsammy2701.com)
-- Frontend Mentor - [@Officialsammy](https://www.frontendmentor.io/profile/Officialsammy)
+- Frontend Mentor - [@Akandeismail](https://www.frontendmentor.io/profile/Officialsammy)
 - Twitter - [@sammy_2701](https://www.twitter.com/sammy_2701)
 
 ## Acknowledgments
